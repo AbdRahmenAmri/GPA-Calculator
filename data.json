@@ -1,0 +1,663 @@
+{
+    "option": [
+        "GLSI 1",
+        "GLSI 2",
+        "GLSI 3"
+    ],
+    "data": {
+        "glsi1": {
+            "name": "Genie Logiciel et System Informatiques",
+            "option": [
+                "Semestre 1",
+                "Semestre 2"
+            ],
+            "data": {
+                "semestre1": {
+                    "module": {
+                        "option": [
+                            "Systemes d'exploitation et architecture",
+                            "Logique multimedia",
+                            "Algorithmique programmation 1",
+                            "Mathematiques 1",
+                            "Unite transversale"
+                        ],
+                        "data": {
+                            "systemesdexploitationetarchitecture": {
+                                "mat": [
+                                    "systeme d'exploitation 1",
+                                    "systemes logiques architecture des ordinateurs"
+                                ],
+                                "data": {
+                                    "systemedexploitation1": {
+                                        "ds": 0,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "systemeslogiquesarchitecturedesordinateurs": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 2,
+                                        "cr": 4
+                                    }
+                                }
+                            },
+                            "logiquemultimedia": {
+                                "mat": [
+                                    "technologies multimedias",
+                                    "logique formelle"
+                                ],
+                                "data": {
+                                    "technologiesmultimedias": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "logiqueformelle": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    }
+                                }
+                            },
+                            "algorithmiqueprogrammation1": {
+                                "mat": [
+                                    "algorithmique structure de donnees",
+                                    "atelier programmation 1"
+                                ],
+                                "data": {
+                                    "algorithmiquestructurededonnees": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 2,
+                                        "cr": 4
+                                    },
+                                    "atelierprogrammation1": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    }
+                                }
+                            },
+                            "mathematiques1": {
+                                "mat": [
+                                    "analyse 1",
+                                    "algebre 1"
+                                ],
+                                "data": {
+                                    "analyse1": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "algebre1": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    }
+                                }
+                            },
+                            "unitetransversale": {
+                                "mat": [
+                                    "techniques de communication 1",
+                                    "anglais 1"
+                                ],
+                                "data": {
+                                    "techniquesdecommunication1": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    },
+                                    "anglais1": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "semestre2": {
+                    "module": {
+                        "option": [
+                            "Systemes d'exploitation et reseaux",
+                            "base de donnees",
+                            "Algorithmique programmation 2",
+                            "Mathematiques 2",
+                            "Unite transversale"
+                        ],
+                        "data": {
+                            "systemesdexploitationetreseaux": {
+                                "mat": [
+                                    "systeme d'exploitation 2",
+                                    "fondements des reseaux"
+                                ],
+                                "data": {
+                                    "systemedexploitation2": {
+                                        "ds": 0,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "fondementsdesreseaux": {
+                                        "ds": 0,
+                                        "tp": 1,
+                                        "cf": 2,
+                                        "cr": 4
+                                    }
+                                }
+                            },
+                            "basededonnees": {
+                                "mat": [
+                                    "fondements des bases de donnees"
+                                ],
+                                "data": {
+                                    "fondementsdesbasesdedonnees": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 2,
+                                        "cr": 4
+                                    }
+                                }
+                            },
+                            "algorithmiqueprogrammation2": {
+                                "mat": [
+                                    "algorithmique structure de donnees et complexite",
+                                    "atelier programmation 2",
+                                    "programmation python"
+                                ],
+                                "data": {
+                                    "algorithmiquestructurededonneesetcomplexite": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "atelierprogrammation2": {
+                                        "ds": 0,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    },
+                                    "programmationpython": {
+                                        "ds": 0,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    }
+                                }
+                            },
+                            "mathematiques2": {
+                                "mat": [
+                                    "analyse 2",
+                                    "algebre 2"
+                                ],
+                                "data": {
+                                    "analyse2": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "algebre2": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    }
+                                }
+                            },
+                            "unitetransversale": {
+                                "mat": [
+                                    "techniques de communication 2",
+                                    "anglais 2",
+                                    "culture et competences numeriques"
+                                ],
+                                "data": {
+                                    "techniquesdecommunication2": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    },
+                                    "anglais2": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    },
+                                    "cultureetcompetencesnumeriques": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "glsi2": {
+            "name": "Genie Logiciel et System Informatiques",
+            "option": [
+                "Semestre 1",
+                "Semestre 2"
+            ],
+            "data": {
+                "semestre1": {
+                    "module": {
+                        "option": [
+                            "Probabilite",
+                            "Automates et optimisation",
+                            "Bases de donnees et reseaux",
+                            "CPOO",
+                            "UO3",
+                            "Langue et culture"
+                        ],
+                        "data": {
+                            "probabilite": {
+                                "mat": [
+                                    "Probabilite et statistique"
+                                ],
+                                "data": {
+                                    "probabiliteetstatistique": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 2,
+                                        "cr": 4
+                                    }
+                                }
+                            },
+                            "automatesetoptimisation": {
+                                "mat": [
+                                    "Theorie deslangages des Automates",
+                                    "Graphes et optimisation"
+                                ],
+                                "data": {
+                                    "theoriedeslangagesdesautomates": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1,
+                                        "cr": 2
+                                    },
+                                    "graphesetoptimisation": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1,
+                                        "cr": 2
+                                    }
+                                }
+                            },
+                            "basesdedonneesetreseaux": {
+                                "mat": [
+                                    "Ingenierie des bases de donnees",
+                                    "Services des reseaux"
+                                ],
+                                "data": {
+                                    "ingenieriedesbasesdedonnees": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "servicesdesreseaux": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    }
+                                }
+                            },
+                            "cpoo": {
+                                "mat": [
+                                    "Conception des systemes information",
+                                    "Programmation Java"
+                                ],
+                                "data": {
+                                    "conceptiondessystemesinformation": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "programmationjava": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 2,
+                                        "cr": 4
+                                    }
+                                }
+                            },
+                            "uo3": {
+                                "mat": [
+                                    "MX design",
+                                    "IoT"
+                                ],
+                                "data": {
+                                    "mxdesign": {
+                                        "cf": 1.5,
+                                        "cr": 3,
+                                        "tp": 0,
+                                        "ds": 1
+                                    },
+                                    "iot": {
+                                        "cf": 1.5,
+                                        "cr": 3,
+                                        "tp": 0,
+                                        "ds": 1
+                                    }
+                                }
+                            },
+                            "langueetculture": {
+                                "mat": [
+                                    "Gestion entreprise",
+                                    "Anglais 3"
+                                ],
+                                "data": {
+                                    "gestionentreprise": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    },
+                                    "anglais3": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "semestre2": {
+                    "module": {
+                        "option": [
+                            "Bases de donnees",
+                            "Indexation et Web",
+                            "Compilation tests",
+                            "Intelligece artificielle",
+                            "UO3",
+                            "Langue et ethique"
+                        ],
+                        "data": {
+                            "basesdedonnees": {
+                                "mat": [
+                                    "Entrepots de donnees",
+                                    "Administration des bases de donnees"
+                                ],
+                                "data": {
+                                    "entrepotsdedonnees": {
+                                        "ds": 1,
+                                        "tp": 0,
+                                        "cf": 1,
+                                        "cr": 2
+                                    },
+                                    "administrationdesbasesdedonnees": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    }
+                                }
+                            },
+                            "indexationetweb": {
+                                "mat": [
+                                    "Techniques indexation",
+                                    "Technologies et programmation web"
+                                ],
+                                "data": {
+                                    "techniquesindexation": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    },
+                                    "technologiesetprogrammationweb": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    }
+                                }
+                            },
+                            "compilationtests": {
+                                "mat": [
+                                    "Tests de logiciels",
+                                    "Techniques de compilation"
+                                ],
+                                "data": {
+                                    "testsdelogiciels": {
+                                        "ds": 0,
+                                        "tp": 0,
+                                        "cf": 1,
+                                        "cr": 2
+                                    },
+                                    "techniquesdecompilation": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    }
+                                }
+                            },
+                            "intelligeceartificielle": {
+                                "mat": [
+                                    "Intelligece artificielle"
+                                ],
+                                "data": {
+                                    "intelligeceartificielle": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 2,
+                                        "cr": 4
+                                    }
+                                }
+                            },
+                            "uo3": {
+                                "mat": [
+                                    "BlockChain",
+                                    "Spring Boot"
+                                ],
+                                "data": {
+                                    "blockchain": {
+                                        "cf": 1.5,
+                                        "cr": 3,
+                                        "tp": 0,
+                                        "ds": 1
+                                    },
+                                    "springboot": {
+                                        "cf": 1.5,
+                                        "cr": 3,
+                                        "tp": 1,
+                                        "ds": 1
+                                    }
+                                }
+                            },
+                            "langueetethique": {
+                                "mat": [
+                                    "Droit informatique",
+                                    "Projet federe",
+                                    "Anglais 4"
+                                ],
+                                "data": {
+                                    "droitinformatique": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    },
+                                    "projetfedere": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    },
+                                    "anglais4": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "glsi3": {
+            "name": "Genie Logiciel et System Informatiques",
+            "option": [
+                "Semestre 1"
+            ],
+            "data": {
+                "semestre1": {
+                    "module": {
+                        "option": [
+                            "Developpement applications",
+                            "ML et securite",
+                            "SOA",
+                            "Cloud et Big Data",
+                            "Optionnelle",
+                            "Langue et Entreprenariat"
+                        ],
+                        "data": {
+                            "developpementapplications": {
+                                "mat": [
+                                    "Dev reparties",
+                                    "Dev mobile"
+                                ],
+                                "data": {
+                                    "devreparties": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "devmobile": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    }
+                                }
+                            },
+                            "mletsecurite": {
+                                "mat": [
+                                    "Machine Learning",
+                                    "Securite"
+                                ],
+                                "data": {
+                                    "machinelearning": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    },
+                                    "securite": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    }
+                                }
+                            },
+                            "soaetws": {
+                                "mat": [
+                                    "SOA"
+                                ],
+                                "data": {
+                                    "soa": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 2,
+                                        "cr": 4
+                                    }
+                                }
+                            },
+                            "cloudetbigdata": {
+                                "mat": [
+                                    "Virt et cloud",
+                                    "Big data"
+                                ],
+                                "data": {
+                                    "virtetcloud": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1.5,
+                                        "cr": 3
+                                    },
+                                    "bigdata": {
+                                        "ds": 1,
+                                        "tp": 1,
+                                        "cf": 1,
+                                        "cr": 2
+                                    }
+                                }
+                            },
+                            "optionnelle": {
+                                "mat": [
+                                    "JEE",
+                                    "Projects managment"
+                                ],
+                                "data": {
+                                    "jee": {
+                                        "cf": 1.5,
+                                        "cr": 3,
+                                        "tp": 1,
+                                        "ds": 1
+                                    },
+                                    "projectsmanagment": {
+                                        "cf": 1.5,
+                                        "cr": 3,
+                                        "tp": 0,
+                                        "ds": 1
+                                    }
+                                }
+                            },
+                            "langueetentreprenariat": {
+                                "mat": [
+                                    "Env pro",
+                                    "Entreprenariat",
+                                    "Anglais"
+                                ],
+                                "data": {
+                                    "envpro": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    },
+                                    "entreprenariat": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    },
+                                    "anglais": {
+                                        "cf": 1,
+                                        "cr": 2,
+                                        "tp": 0,
+                                        "ds": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
